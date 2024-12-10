@@ -173,4 +173,3 @@ github_label.bind("<Button-1>", abrir_github)
 
 root.configure(bg="#f0f0f0")  # Cor de fundo da janela principal
 root.mainloop()
->>>>>>> c388cac (new version)
